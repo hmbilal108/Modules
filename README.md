@@ -9,3 +9,7 @@ It is like as we use
 import in React,
 
 and require in Node. 
+
+requrire in index.js and 
+
+module.exports in math.js
