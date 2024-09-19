@@ -10,6 +10,6 @@ import in React,
 
 and require in Node. 
 
-requrire in index.js and 
+require in index.js and 
 
 module.exports in math.js
